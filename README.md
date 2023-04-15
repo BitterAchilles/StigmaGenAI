@@ -1,0 +1,2 @@
+# StigmaGenAI
+Calling OpenAI
